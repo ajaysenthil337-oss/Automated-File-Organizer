@@ -184,7 +184,7 @@ This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
 
-**Karthick Raja B**  
+**Ajay S**  
 Computer Science Engineering Student  
 Python Programming Internship Project
 
